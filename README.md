@@ -42,6 +42,10 @@ for validations i have used basic bootstrap validations,
 
 for make user friendly i have added tooltips
 
-
+inner pages :
+Login 
+Register
+Forget Password
+Home (Todo create and display)
 
 
